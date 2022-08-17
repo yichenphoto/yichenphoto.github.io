@@ -1,0 +1,4 @@
+baseURL = 'http://www.yichenphoto.com/'
+languageCode = 'en-us'
+title = 'Yi Chen Photography'
+theme = "augohugo"
