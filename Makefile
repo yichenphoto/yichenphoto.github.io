@@ -1,4 +1,3 @@
 build:
 	cd yichenphoto; hugo -D
-	cp -r . ../docs/
-	cd ..
+	cp -r yichenphoto/. docs/.	
