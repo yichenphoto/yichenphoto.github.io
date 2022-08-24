@@ -1,11 +1,11 @@
 ---
 title: "Friends"
 date: 2022-08-17T06:07:44-07:00
-albumthumb: "friends/CHN_4941.jpg"
+albumthumb: "friends/DSC_2977.jpg"
 draft: false
 resources:
-- src: "friends/CHN_4941.jpg"
 - src: "friends/DSC_1367.jpg"
+- src: "friends/CHN_4941.jpg"
 - src: "friends/DSC_2943.jpg"
 - src: "friends/DSC_2977.jpg"
 - src: "friends/DSC_2982.jpg"
