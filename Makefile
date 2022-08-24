@@ -5,4 +5,5 @@ clean:
 build: clean
 	mkdir docs	
 	cd yichenphoto; hugo
-	cp -r yichenphoto/public/. docs/.	
+	cp -r yichenphoto/public/. docs/.
+	cp CNAME docs/	
