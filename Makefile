@@ -1,3 +1,5 @@
 build:
-	cd yichenphoto; hugo -D
-	cp -r yichenphoto/. docs/.	
+	rm -rf docs; mkdir docs
+	rm -rf yichenphoto/public
+	cd yichenphoto; hugo
+	cp -r yichenphoto/public/. docs/.	
