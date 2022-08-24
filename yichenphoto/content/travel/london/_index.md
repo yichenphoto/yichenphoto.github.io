@@ -1,7 +1,7 @@
 ---
 title: "London"
 date: 2022-08-17T07:10:21-07:00
-albumthumb: "travel/london/DSC_6106.jpg"
+albumthumb: "travel/london/DSC_6168.jpg"
 draft: false
 resources:
 - src: "travel/london/DSC_6106.jpg"
