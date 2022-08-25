@@ -1,7 +1,7 @@
 ---
 title: "Oregon Beach 2021"
 date: 2022-08-24T20:12:19-07:00
-albumthumb: "family/beach2021/L1090366.jpg"
+albumthumb: "family/beach2021/L1090406.jpg"
 draft: false
 resources:
 - src: "family/beach2021/L1090366.jpg"
