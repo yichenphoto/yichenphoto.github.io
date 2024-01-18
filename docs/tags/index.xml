@@ -7,6 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>yichen@gmail.com (Yi Chen)</managingEditor>
-    <webMaster>yichen@gmail.com (Yi Chen)</webMaster><atom:link href="https://www.yichenphoto.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <webMaster>yichen@gmail.com (Yi Chen)</webMaster>
+    <atom:link href="https://www.yichenphoto.com/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
