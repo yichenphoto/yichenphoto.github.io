@@ -1,3 +1,0 @@
-[29-Oct-2009 01:17:52] PHP Warning:  include(header.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/photo/public_html/salsa/index.php on line 58
-[29-Oct-2009 01:17:52] PHP Warning:  include(header.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/photo/public_html/salsa/index.php on line 58
-[29-Oct-2009 01:17:52] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'header.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/photo/public_html/salsa/index.php on line 58
