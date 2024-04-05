@@ -1,6 +1,6 @@
 ---
 title: "Italy"
-date: 2022-08-24T16:06:18-07:00
+date: 2024-04-03T16:06:18-07:00
 albumthumb: "travel/italy/D85_5479.jpg"
 draft: false
 resources:
@@ -16,6 +16,5 @@ resources:
 - src: "travel/italy/D85_5923.jpg"
 - src: "travel/italy/D85_5925.jpg"
 - src: "travel/italy/DSC07254.jpg"
-- src: "travel/italy/DSC07417.jpg"
 ---
 
